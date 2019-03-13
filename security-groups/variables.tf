@@ -15,6 +15,6 @@ variable "environment_identifier" {
 }
 
 # MIS vars
-variable "alfresco_app_name" {
-  default = "alfresco"
+variable "app_name" {
+  default = "delius"
 }
